@@ -1,5 +1,3 @@
-package java_com;
-
 public class CuentaBancaria {
     private String nombre;
     private String apellido;
